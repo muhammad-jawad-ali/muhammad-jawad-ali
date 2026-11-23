@@ -12,7 +12,7 @@ Full-stack and applied AI engineer. I ship product features end to end: React an
 
 ## Selected work
 
-### [Scaffold](https://github.com/muhammad-jawad-ali/Scaffold): an adaptive AI tutor that does not hand out answers
+### [Scaffold](https://github.com/muhammad-jawad-ali/Scaffold): an adaptive AI tutor that does not hand out answers (FYP, team of 3)
 A tutor for C++ programming labs. A policy decides how much help a student gets, and a guardrail keeps the reference solution from leaking through the model.
 - Bayesian Knowledge Tracing that discounts passes that look pasted or hint-driven. Benchmarked against an LSTM (DKT) on 4,000 held-out students.
 - Locally hosted `qwen2.5-coder:7b` through Ollama. No student code leaves the machine.
